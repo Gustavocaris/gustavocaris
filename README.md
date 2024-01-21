@@ -1,4 +1,4 @@
-### Ola! eu sou o Gustavo. Atualmente, estudo Engenharia de Software. 👨‍💻
+## Olá, eu sou o Gustavo. Estudo engenharia de software e busco meu desenvolvimento por meio da faculdade e, principalmente, por cursos externos que envolvem programação direta. ☕👨‍💻
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador iuriCode">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-caris)
@@ -25,3 +25,5 @@
 <a href ="mailto:gustavocaris.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavo-caris" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
 </div>&nbsp;&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
