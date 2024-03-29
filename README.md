@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo;Estudo+engenharia+de+software;+Seja+muito+bem+Vindo!☕👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo;Estudo+engenharia+de+software;+Seja+muito+bem+Vindo!☕👨‍💻)](https://git.io/typing-svg)
 
 <h1></h1>
 
@@ -32,4 +32,7 @@
 <a href="https://www.linkedin.com/in/gustavo-caris" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
 </div>&nbsp;&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gustavocaris&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
