@@ -32,6 +32,11 @@
 <a href="https://www.linkedin.com/in/gustavo-caris" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
 </div>&nbsp;&nbsp;
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gustavocaris}/count.svg" /></p> 
+<br>
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gustavocaris&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
