@@ -5,6 +5,10 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-gustavocaris.dev@gmail.com-539cdc?style=flat-square&logo=Gmail&logoColor=black&link=mailto:gustavocaris.dev@gmail.com)](mailto:gustavocaris.dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Caris-539cdc?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/gustavo-caris)](https://www.linkedin.com/in/gustavo-caris) 
+[![portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=ko-fi&logoColor=red)](https://gustavocaris.github.io/Portfolio/)
+[![portfolio](https://img.shields.io/badge/Data_Science-000?style=flat-square&logo=ko-fi&logoColor=green)](https://github.com/Gustavocaris/Data_Science)
+
+
 <hr>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador iuriCode">
