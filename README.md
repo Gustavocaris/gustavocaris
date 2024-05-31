@@ -1,4 +1,4 @@
-<img width=100% src="https://github.com/Gustavocaris/Data_Science/assets/149839159/9423ae26-4304-40a6-9d54-3ab68d4d10a6"/>
+<img width=100% src="https://github.com/Gustavocaris/Data_Science/assets/149839159/7a11fecd-5bb6-4783-b0e0-2c106bfd317f"/>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo;Estudo+engenharia+de+software;+Seja+muito+bem+Vindo!☕👨‍💻)](https://git.io/typing-svg)
 -->
