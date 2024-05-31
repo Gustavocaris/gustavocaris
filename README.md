@@ -2,11 +2,14 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo;Estudo+engenharia+de+software;+Seja+muito+bem+Vindo!☕👨‍💻)](https://git.io/typing-svg)
 -->
-<h1></h1>
+
+[![Gmail Badge](https://img.shields.io/badge/-gustavocaris.dev@gmail.com-539cdc?style=flat-square&logo=Gmail&logoColor=black&link=mailto:gustavocaris.dev@gmail.com)](mailto:gustavocaris.dev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Caris-539cdc?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/gustavo-caris)](https://www.linkedin.com/in/gustavo-caris) 
+<hr>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador iuriCode">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-caris)
+
 
 ## Tecnologias:
 <div style="display: inline_block">
