@@ -2,6 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo;Estudo+engenharia+de+software;+Seja+muito+bem+Vindo!☕👨‍💻)](https://git.io/typing-svg)
 
+### Working:
+
+[![Aliare](https://img.shields.io/badge/-Aliare_:_cloud_team☁️👨🏻‍💻_-28a745?logo=linkedin&logoColor=fff&style=plastic)](https://www.aliare.co/) 
+
+<img src="https://img.shields.io/badge/-Aliare-28a745?logo=linkedin&logoColor=white&style=plastic" style="height: 20px;">
+
+<!--<img src="https://img.shields.io/badge/-Aliare-28a745?logo=linkedin&logoColor=white&style=plastic" style="height: 20px;">-->
+
 
 ### skills:
 
@@ -10,10 +18,10 @@
 [![portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=ko-fi&logoColor=red)](https://gustavocaris.github.io/Portfolio/)
 [![portfolio](https://img.shields.io/badge/Data_Science-000?style=flat-square&logo=ko-fi&logoColor=green)](https://github.com/Gustavocaris/Data_Science)
 
-  | Topico  |           Observação                 | 
+  | property  |           Techs                 | 
 | :---------- | :---------------------------------- | 
 | <kbd>Skills</kbd>  | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
-| <kbd></kbd>  | osidadeigo |
+| <kbd>studying at the moment</kbd>  | osidadeigo |
 | <kbd></kbd>  | osidadeigo |
 | <kbd></kbd>  | osidadeigo |
 | <kbd></kbd>  | osidadeigo |
