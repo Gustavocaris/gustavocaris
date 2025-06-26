@@ -1,13 +1,22 @@
-<img width=100% src="https://github.com/Gustavocaris/Data_Science/assets/149839159/7a11fecd-5bb6-4783-b0e0-2c106bfd317f"/>
+<img width=80% src="https://github.com/Gustavocaris/Data_Science/assets/149839159/7a11fecd-5bb6-4783-b0e0-2c106bfd317f"/>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo;Estudo+engenharia+de+software;+Seja+muito+bem+Vindo!☕👨‍💻)](https://git.io/typing-svg)
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo;Estudo+engenharia+de+software;+Seja+muito+bem+Vindo!☕👨‍💻)](https://git.io/typing-svg)
+
+
+### skills:
 
 [![Gmail Badge](https://img.shields.io/badge/-gustavocaris.dev@gmail.com-539cdc?style=flat-square&logo=Gmail&logoColor=black&link=mailto:gustavocaris.dev@gmail.com)](mailto:gustavocaris.dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Caris-539cdc?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/gustavo-caris)](https://www.linkedin.com/in/gustavo-caris) 
 [![portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=ko-fi&logoColor=red)](https://gustavocaris.github.io/Portfolio/)
 [![portfolio](https://img.shields.io/badge/Data_Science-000?style=flat-square&logo=ko-fi&logoColor=green)](https://github.com/Gustavocaris/Data_Science)
 
+  | Topico  |           Observação                 | 
+| :---------- | :---------------------------------- | 
+| <kbd>Skills</kbd>  | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
+| <kbd></kbd>  | osidadeigo |
+| <kbd></kbd>  | osidadeigo |
+| <kbd></kbd>  | osidadeigo |
+| <kbd></kbd>  | osidadeigo |
 
 <hr>
 
