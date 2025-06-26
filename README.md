@@ -1,12 +1,16 @@
-<img width=80% src="https://github.com/Gustavocaris/Data_Science/assets/149839159/7a11fecd-5bb6-4783-b0e0-2c106bfd317f"/>
+<div align="center">
+  <img width="70%" src="https://github.com/Gustavocaris/Data_Science/assets/149839159/7a11fecd-5bb6-4783-b0e0-2c106bfd317f"/>
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo;Estudo+engenharia+de+software;+Seja+muito+bem+Vindo!☕👨‍💻)](https://git.io/typing-svg)
 
 ### Working:
+<!--[![Aliare](https://img.shields.io/badge/-Aliare_:_cloud_team☁️👨🏻‍💻_-28a745?logo=linkedin&logoColor=fff&style=plastic)](https://www.aliare.co/)-->
+<a href="https://www.aliare.co/">
+  <img src="https://img.shields.io/badge/-Aliare_:_cloud_team☁️👨🏻‍💻_-28a745?logo=linkedin&logoColor=fff&style=plastic" style="height: 20px;">
+</a>
 
-[![Aliare](https://img.shields.io/badge/-Aliare_:_cloud_team☁️👨🏻‍💻_-28a745?logo=linkedin&logoColor=fff&style=plastic)](https://www.aliare.co/) 
-
-<img src="https://img.shields.io/badge/-Aliare-28a745?logo=linkedin&logoColor=white&style=plastic" style="height: 20px;">
 
 <!--<img src="https://img.shields.io/badge/-Aliare-28a745?logo=linkedin&logoColor=white&style=plastic" style="height: 20px;">-->
 
