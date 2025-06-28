@@ -5,92 +5,48 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo;Estudo+engenharia+de+software;+Seja+muito+bem+Vindo!☕👨‍💻)](https://git.io/typing-svg)
 
-### Work:
-<!--[![Aliare](https://img.shields.io/badge/-Aliare_:_cloud_team☁️👨🏻‍💻_-28a745?logo=linkedin&logoColor=fff&style=plastic)](https://www.aliare.co/)-->
-<a href="https://www.aliare.co/">
-  <img src="https://img.shields.io/badge/-Aliare_:_Cloud_Team☁️👨🏻‍💻_-28a745?logo=linkedin&logoColor=fff&style=plastic" style="height: 20px;">
-</a>
 
+| 🛠️ **Work:** |
+|---------------------|
+<!--[![Aliare](https://img.shields.io/badge/-Aliare_:_cloud_team☁️👨🏻‍💻_-28a745?logo=linkedin&logoColor=fff&style=plastic)](https://www.aliare.co/)-->
+<p align="left">
+  <a href="https://www.aliare.co/">
+    <img src="https://img.shields.io/badge/-Aliare_:_Cloud_Team☁️👨🏻‍💻_-28a745?logo=linkedin&logoColor=fff&style=flat" alt="Aliare Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Frontend%20Developer-4C8CBF?style=flat&logoColor=white" alt="MVC Architecture"/>
+  </a>
+</p>
+
+
+   
 
 <!--<img src="https://img.shields.io/badge/-Aliare-28a745?logo=linkedin&logoColor=white&style=plastic" style="height: 20px;">-->
 
+<hr>
 
-### skills:
-
-[![Gmail Badge](https://img.shields.io/badge/-gustavocaris.dev@gmail.com-539cdc?style=flat-square&logo=Gmail&logoColor=black&link=mailto:gustavocaris.dev@gmail.com)](mailto:gustavocaris.dev@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Caris-539cdc?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/gustavo-caris)](https://www.linkedin.com/in/gustavo-caris) 
-[![portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=ko-fi&logoColor=red)](https://gustavocaris.github.io/Portfolio/)
-[![portfolio](https://img.shields.io/badge/Data_Science-000?style=flat-square&logo=ko-fi&logoColor=green)](https://github.com/Gustavocaris/Data_Science)
-
-  | property  |           Techs                 | 
-| :---------- | :---------------------------------- | 
-| <kbd>Skills</kbd>  | ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; [![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)  [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
-| <kbd>knowledge</kbd>  | [![Electrical Engineering Development Badge](https://img.shields.io/badge/-MVC%20architecture-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Scrum_Kanban%20methodology-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-CRM-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-ERP-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)  |
-| <kbd>studying at the moment</kbd>  | [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) |
-| <kbd>Estudando</kbd>  |  |
-| <kbd></kbd>  | osidadeigo |
-
-
-
-## 🧠 Conhecimentos e Tecnologias
-
-| Categoria                     | Tecnologias / Ferramentas |
-|------------------------------|---------------------------|
-| 💼 **Skills**                | ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github) [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) [![Markdown](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
-| 📚 **Conhecimento**          | [![MVC](https://img.shields.io/badge/-MVC%20Architecture-4C8CBF?style=flat&logoColor=white)]() [![Scrum/Kanban](https://img.shields.io/badge/-Scrum/Kanban-FF6600?style=flat&logoColor=white)]() [![CRM](https://img.shields.io/badge/-CRM-4C8CBF?style=flat&logoColor=white)]() [![ERP](https://img.shields.io/badge/-ERP-FF6600?style=flat&logoColor=white)]() [![Software Dev](https://img.shields.io/badge/-Software_Development-007ACC?style=flat&logoColor=white)]() |
-| 🚀 **Estudando no momento** | [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) |
-
-
-
-
-
-
-
-
-
-![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
-
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
-
-## 🚀 Tecnologias e Ferramentas
-
-| 🛠️ **Tecnologias** |
+| 🛠️ **🧠 Tech Stack:** |
 |---------------------|
-| 
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-|
+
+| Category              | Technologies / Tools |
+|----------------------|----------------------|
+| 💼 **Skills**         | <div align="center">  ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github) [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) [![Markdown](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com)<br> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)<br> ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) </div> |
+| 📚 **Knowledge**       | <div align="center"> [![MVC](https://img.shields.io/badge/-MVC%20Architecture-4C8CBF?style=flat&logoColor=white)]() [![Scrum/Kanban](https://img.shields.io/badge/-Scrum/Kanban-FF6600?style=flat&logoColor=white)]() [![CRM](https://img.shields.io/badge/-CRM-4C8CBF?style=flat&logoColor=white)]() [![ERP](https://img.shields.io/badge/-ERP-FF6600?style=flat&logoColor=white)]() [![Software Dev](https://img.shields.io/badge/-Software_Development-007ACC?style=flat&logoColor=white)]() </div> |
+| 🚀 **Currently Studying** | <div align="center"> [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) </div> |
+| 📫 **Contact**         | <div align="center"> <a href="mailto:gustavocaris.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/gustavo-caris" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"></a> </div> |
+| 📌 **Featured Repositories** | <div align="center"> [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=ko-fi&logoColor=red)](https://gustavocaris.github.io/Portfolio/) [![Data Science](https://img.shields.io/badge/Data_Science-000?style=flat-square&logo=ko-fi&logoColor=green)](https://github.com/Gustavocaris/Data_Science) </div> |
+| 🌐 **Languages**       | <div align="center"> ![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=flat) ![English](https://img.shields.io/badge/English-Intermediate-blue?style=flat) </div> |
 
 
+
+
+
+
+<!--![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;-->
+
+<!--![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)-->
+
+<!--![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)-->
 
 <hr>
 
@@ -99,20 +55,6 @@
 
 
 
-
-
-### Buscando um aprofundamento em:
-<div style="display: inline_block">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</div>
-
-### Contacts:
-
-<div> 
-<a href ="mailto:gustavocaris.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gustavo-caris" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
-</div>&nbsp;&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
