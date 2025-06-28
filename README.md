@@ -30,6 +30,24 @@
 | <kbd>Estudando</kbd>  |  |
 | <kbd></kbd>  | osidadeigo |
 
+
+
+## 🧠 Conhecimentos e Tecnologias
+
+| Categoria                     | Tecnologias / Ferramentas |
+|------------------------------|---------------------------|
+| 💼 **Skills**                | ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github) [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) [![Markdown](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
+| 📚 **Conhecimento**          | [![MVC](https://img.shields.io/badge/-MVC%20Architecture-4C8CBF?style=flat&logoColor=white)]() [![Scrum/Kanban](https://img.shields.io/badge/-Scrum/Kanban-FF6600?style=flat&logoColor=white)]() [![CRM](https://img.shields.io/badge/-CRM-4C8CBF?style=flat&logoColor=white)]() [![ERP](https://img.shields.io/badge/-ERP-FF6600?style=flat&logoColor=white)]() [![Software Dev](https://img.shields.io/badge/-Software_Development-007ACC?style=flat&logoColor=white)]() |
+| 🚀 **Estudando no momento** | [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) |
+
+
+
+
+
+
+
+
+
 ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
@@ -57,6 +75,21 @@
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 
+## 🚀 Tecnologias e Ferramentas
+
+| 🛠️ **Tecnologias** |
+|---------------------|
+| 
+![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
+|
+
 
 
 <hr>
@@ -65,17 +98,8 @@
 
 
 
-## Tecnologias:
-<div style="display: inline_block">
-    <img align="align" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="align" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="align" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="align" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="align" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    <img align="align" alt="GitHub" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-    <img align="align" alt="VSCODE" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img align="align" alt="POWERBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
-</div>
+
+
 
 ### Buscando um aprofundamento em:
 <div style="display: inline_block">
