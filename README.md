@@ -1,9 +1,9 @@
-<div align="center">
+<!--<div align="center">
   <img width="70%" src="https://github.com/Gustavocaris/Data_Science/assets/149839159/7a11fecd-5bb6-4783-b0e0-2c106bfd317f"/>
-</div>
+</div>-->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo;Estudo+engenharia+de+software;+Seja+muito+bem+Vindo!☕👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo;Estudo+engenharia+de+software;+Seja+muito+bem+Vindo!☕👨‍💻)](https://git.io/typing-svg)
 
 
 | 🛠️ **Work:** |
