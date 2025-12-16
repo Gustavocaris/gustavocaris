@@ -2,12 +2,11 @@
   <img width="70%" src="https://github.com/Gustavocaris/Data_Science/assets/149839159/7a11fecd-5bb6-4783-b0e0-2c106bfd317f"/>
 </div>-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo;Estudo+engenharia+de+software;+Seja+muito+bem+Vindo!☕👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4b33&size=30&center=true&vCenter=true&width=1000&lines=Heyy+Welcomeee☕👨‍💻)](https://git.io/typing-svg)
 
+<img align="right" height="150" src="https://media.tenor.com/dHk-LfzHrtwAAAAm/linux-computer.webp">
 
-<p align="center"> My name is Gustavo, and I’m a technology professional passionate about smart solutions, automation, and continuous learning.
-
-Currently, I work in the cloud infrastructure team, dealing with migration projects, internal and external support, virtualized environments, and databases. I also have experience in web development, client support, and collaboration with engineering and product teams. Over the past few months, I’ve been deepening my knowledge in the following areas: Cloud Computing: fundamentals, architecture, and cloud providers such as Azure and AWS. DevOps: culture, agile practices, CI/CD, automation, and process integration. Containerization ande Databases.
+<p align="center"> My name is Gustavo, and I’m a technology professional passionate about smart solutions, automation, and continuous learning. Currently, I work in the cloud infrastructure team, dealing with migration projects, internal and external support, virtualized environments, and databases. I also have experience in web development, client support, and collaboration with engineering and product teams. Over the past few months, I’ve been deepening my knowledge in the following areas: Cloud Computing: fundamentals, architecture, and cloud providers such as Azure and AWS. DevOps: culture, agile practices, CI/CD, automation, and process integration. Containerization ande Databases.
 </p>
 
 <hr>
