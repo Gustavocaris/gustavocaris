@@ -55,17 +55,17 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=DukaSiqueira&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=1F6FEB&ring_color=1F6FEB&hide_border=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=DukaSiqueira&layout=compact&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Gustavocaris&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=1F6FEB&ring_color=1F6FEB&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Gustavocaris&layout=compact&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DukaSiqueira&exclude_days=Sun,Sat&locale=pt_BR&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9&excludeDaysLabel=8B949E&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gustavocaris&exclude_days=Sun,Sat&locale=pt_BR&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9&excludeDaysLabel=8B949E&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <br/>
 
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DukaSiqueira&bg_color=0D1117&color=FFFFFF&title_color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavocaris&bg_color=0D1117&color=FFFFFF&title_color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Activity Graph"/>
 
 <br/>
 
