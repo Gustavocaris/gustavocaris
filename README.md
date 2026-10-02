@@ -47,6 +47,11 @@
 
 <div align="center"> <a href="mailto:gustavocaris.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/gustavo-caris" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"></a> </div>
 
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DukaSiqueira&exclude_days=Sun,Sat&locale=pt_BR&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9&excludeDaysLabel=8B949E&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<br/>
 
 <!--
 <p align="center">
