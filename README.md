@@ -49,11 +49,18 @@
 
 <br/>
 
-
+<div align="center">
+[comment]: <> (Separator)
+<img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
+</div>
 
 ## 📊 GitHub Analytics
 
+
+
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gustavocaris&label=PROFILE+VIEWS&color=0D47A1&label_color=000000&style=flat-square)
 
 <img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Gustavocaris&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=1F6FEB&ring_color=1F6FEB&hide_border=true" alt="GitHub Stats"/>
 <img height="180em" src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Gustavocaris&layout=compact&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&hide_border=true" alt="Top Languages"/>
