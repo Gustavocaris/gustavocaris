@@ -53,6 +53,15 @@
 
 <br/>
 
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DukaSiqueira&bg_color=0D1117&color=FFFFFF&title_color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Activity Graph"/>
+
+<br/>
+
+
+
+
+
 <!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
