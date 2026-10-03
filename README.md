@@ -50,7 +50,6 @@
 <br/>
 
 <div align="center">
-[comment]: <> (Separator)
 <img align="center" src="https://github.com/Harlocks/design/blob/main/assets/inkscape/separators/Line.png?raw=true">
 </div>
 
