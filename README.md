@@ -14,11 +14,7 @@
 | 🛠️ **Work:** |
 |---------------------|
 <!--[![Aliare](https://img.shields.io/badge/-Aliare_:_cloud_team☁️👨🏻‍💻_-28a745?logo=linkedin&logoColor=fff&style=plastic)](https://www.aliare.co/)-->
-<p align="left">
-  <a href="https://www.aliare.co/">
-    <img src="https://img.shields.io/badge/-Aliare_:_Cloud_Team☁️👨🏻‍💻_-28a745?logo=linkedin&logoColor=fff&style=flat" alt="Aliare Badge"/>
-  </a>
-</p>
+
 
 
    
