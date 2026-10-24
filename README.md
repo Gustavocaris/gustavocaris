@@ -27,9 +27,65 @@
   🌎 <b>Português</b> (nativo) · <b>English</b> (intermediário) &nbsp;|&nbsp; 📋 Scrum/Kanban · ERP · CRM
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-caris"><img src="https://img.shields.io/badge/LinkedIn-Gustavo_Caris-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Gustavocaris/DevOps-Alire-Cloud"><img src="https://img.shields.io/badge/repo-DevOps--Alire--Cloud-2088FF?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Gustavocaris/Spotify-AWS-EC2"><img src="https://img.shields.io/badge/repo-Spotify--AWS--EC2-FF9900?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Gustavocaris/netcheck"><img src="https://img.shields.io/badge/repo-NetCheck-28a745?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://ccmtecnologia.com.br/"><img src="https://img.shields.io/badge/trabalho-CCM_Tech-00838F?style=flat&logo=icloud&logoColor=white"></a>
+  <a href="https://github.com/Desenvolvimentos-Inteligentes"><img src="https://img.shields.io/badge/org-Inteldev-6E40C9?style=flat&logo=github&logoColor=white"></a>
+</p>
 
+### 🗺️ Arquitetura dos Projetos
 
+```mermaid
+flowchart LR
+    dev(["👨🏻‍💻 Gustavo"])
 
+    subgraph GH["🐙 GitHub"]
+        direction TB
+        r1["📦 Spotify-AWS-EC2"]
+        r2["📦 NetHealth"]
+        r3["📦 OCI-Lab"]
+        r4["📦 DevOps-Alire-Cloud"]
+    end
+
+    dev -- "git push" --> GH
+
+    %% Lab AWS: CI/CD + IaC
+    r1 --> gha["⚙️ GitHub Actions"]
+    gha -- "🔐 OIDC" --> tf["🏗️ Terraform"]
+    gha -- "docker push" --> ecr
+    subgraph AWS["☁️ AWS · sa-east-1"]
+        ecr["🐳 ECR"] -- "pull" --> ec2["🖥️ EC2"]
+    end
+    tf -- "provisiona" --> AWS
+
+    %% NetHealth: app de diagnóstico de rede
+    r2 --> fe
+    subgraph NH["🩺 NetHealth"]
+        fe["⚛️ React + TS"] -- "REST" --> api["🟢 Node / Express"]
+    end
+    api -. "deploy · em breve" .-> cloud["☁️ OCI / AWS"]
+
+    %% Lab OCI: Kubernetes gerenciado
+    r3 --> lb
+    subgraph OCI["🔴 OCI · sa-saopaulo-1"]
+        subgraph VCN["🌐 VCN"]
+            lb["⚖️ Load Balancer"] --> oke["☸️ OKE"]
+        end
+    end
+
+    %% Referência de CLI
+    r4 --> cli["⌨️ Bash · PowerShell · Git"]
+
+    classDef repo stroke:#58A6FF,stroke-width:2px
+    classDef plan stroke-dasharray:5 5
+    class r1,r2,r3,r4 repo
+    class cloud plan
+```
+
+<!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Gustavocaris&theme=matrix" alt="GitHub Trophies"/>
@@ -37,10 +93,8 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Gustavocaris&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats"/>
 </p>
+-->
 
-
-
-<hr>
 
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gustavocaris&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
