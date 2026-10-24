@@ -36,6 +36,7 @@
   <a href="https://github.com/Desenvolvimentos-Inteligentes"><img src="https://img.shields.io/badge/org-Inteldev-6E40C9?style=flat&logo=github&logoColor=white"></a>
 </p>
 
+
 ### 🗺️ Arquitetura dos Projetos
 
 ```mermaid
@@ -44,60 +45,63 @@ flowchart LR
 
     subgraph GH["🐙 GitHub"]
         direction TB
-        r1["📦 Spotify-AWS-EC2"]
-        r2["📦 NetHealth"]
-        r3["📦 OCI-Lab"]
-        r4["📦 DevOps-Alire-Cloud"]
+        r1["📦 NetHealth"]
+        r2["📦 backend-API"]
+        r3["📦 terraform-pipeline"]
+        r4["📦 Engineering-experiments"]
+        r5["🔒 web-tondato"]
+        r6["📦 Data-science"]
+        r7["📦 DevOps-Aliare-Cloud"]
     end
 
     dev -- "git push" --> GH
 
-    %% Lab AWS: CI/CD + IaC
-    r1 --> gha["⚙️ GitHub Actions"]
-    gha -- "🔐 OIDC" --> tf["🏗️ Terraform"]
-    gha -- "docker push" --> ecr
-    subgraph AWS["☁️ AWS · sa-east-1"]
-        ecr["🐳 ECR"] -- "pull" --> ec2["🖥️ EC2"]
-    end
-    tf -- "provisiona" --> AWS
-
-    %% NetHealth: app de diagnóstico de rede
-    r2 --> fe
+    %% NetHealth: diagnóstico de rede
+    r1 --> fe
     subgraph NH["🩺 NetHealth"]
         fe["⚛️ React + TS"] -- "REST" --> api["🟢 Node / Express"]
     end
-    api -. "deploy · em breve" .-> cloud["☁️ OCI / AWS"]
 
-    %% Lab OCI: Kubernetes gerenciado
-    r3 --> lb
-    subgraph OCI["🔴 OCI · sa-saopaulo-1"]
-        subgraph VCN["🌐 VCN"]
-            lb["⚖️ Load Balancer"] --> oke["☸️ OKE"]
-        end
+    %% backend-API
+    r2 --> bapi["🔌 REST API"] --> dk["🐳 Docker"]
+
+    %% Pipeline de IaC
+    r3 -- "push" --> fmt
+    subgraph CI["⚙️ GitHub Actions"]
+        direction LR
+        fmt["✅ fmt · validate"] --> plan["📋 plan"] --> apply["🚀 apply"]
+    end
+    apply -- "🏗️ Terraform" --> cloud["☁️ Cloud"]
+
+    %% Ambientes por branch (em estudo)
+    subgraph K8S["☸️ Cluster Kubernetes · em estudo"]
+        direction TB
+        ns1["📁 dev"]
+        ns2["📁 staging"]
+        ns3["📁 prod"]
+    end
+    r4 -- "🌿 dev" --> ns1
+    r4 -- "🌿 staging" --> ns2
+    r4 -- "🌿 main" --> ns3
+
+    %% web-tondato (privado)
+    r5 --> site
+    subgraph WT["🌐 web-tondato"]
+        cms["📝 Sanity CMS"] -- "conteúdo" --> site["🖥️ Site"]
+        cms -- "webhook" --> wapi["🔌 API"]
+        site -- "formulário" --> wapi
+        wapi -- "envio" --> rs["✉️ Resend"]
     end
 
+    %% Estudos
+    r6 --> ds["📊 ML · Probabilidade · Estatística"]
+
     %% Referência de CLI
-    r4 --> cli["⌨️ Bash · PowerShell · Git"]
+    r7 --> cli["⌨️ Bash · PowerShell · Git"]
 
     classDef repo stroke:#58A6FF,stroke-width:2px
-    classDef plan stroke-dasharray:5 5
-    class r1,r2,r3,r4 repo
-    class cloud plan
+    classDef priv stroke:#8B949E,stroke-width:2px,stroke-dasharray:4 4
+    class r1,r2,r3,r4,r6,r7 repo
+    class r5 priv
+    style K8S stroke-dasharray:5 5
 ```
-
-<!--
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Gustavocaris&theme=matrix" alt="GitHub Trophies"/>
-  </a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavocaris&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats"/>
-</p>
--->
-
-
-<!--
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gustavocaris&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
--->
