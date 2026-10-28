@@ -36,4 +36,14 @@
   <a href="https://github.com/Desenvolvimentos-Inteligentes"><img src="https://img.shields.io/badge/org-Inteldev-6E40C9?style=flat&logo=github&logoColor=white"></a>
 </p>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-timeline.frangolab.com/embed/Gustavocaris/trilha.svg?tema=escuro"
+  />
+  <img
+    alt="Trilha da carreira"
+    src="https://github-timeline.frangolab.com/embed/Gustavocaris/trilha.svg?tema=claro"
+  />
+</picture>
 
