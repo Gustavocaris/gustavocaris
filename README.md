@@ -47,3 +47,15 @@
   />
 </picture>
 
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-timeline.frangolab.com/embed/Gustavocaris/linguagens.svg?tema=escuro"
+  />
+  <img
+    alt="Trilha da carreira"
+    src="https://github-timeline.frangolab.com/embed/Gustavocaris/linguagens.svg?tema=claro"
+  />
+</picture>
